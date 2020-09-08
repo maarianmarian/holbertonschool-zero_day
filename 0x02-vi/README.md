@@ -1,0 +1,1 @@
+This is an exercise to familiarize ourselves with VI, here are some commands that are used

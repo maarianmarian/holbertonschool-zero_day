@@ -1,1 +1,1 @@
-in this exercise we find the commands to work in git
+.:in this exercise we find the commands to work in git and gitHub:.
